@@ -1,5 +1,5 @@
 # omniserum
-## A script to create [Xfer Serum](https://xferrecords.com/products/serum) wavetables from [Spectrasonics Omnisphere's](https://www.spectrasonics.net/products/omnisphere/) wavetables.
+## Create [Xfer Serum](https://xferrecords.com/products/serum) wavetables from [Spectrasonics Omnisphere's](https://www.spectrasonics.net/products/omnisphere/) wavetables.
 Taking sounds from one software instrument to use in another.
 
 ### You will need:
@@ -8,14 +8,14 @@ Taking sounds from one software instrument to use in another.
 3. A clone of this repository.
 
 ### What to do:
-in the STEAM directory where your rompler data is, find the wavetables data file (it's just one big file).
+in the STEAM directory (where your spectrasonics data is), find the wavetables data file (it's just one big file).
 It's called ~BundleArchives.db and is found in this path relative to STEAM:
 ```
 spectrasonics\STEAM\Omnisphere\Wavetables\~BundleArchives.db
 ```
 Copy it into this repo directory.
 
-Then install and start the script with the command (in the repo root dir):
+Then install and start the script with the commands (in the repo's root directory, where package.json is):
 
 ```
 npm install
