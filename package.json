@@ -1,0 +1,14 @@
+{
+  "name": "omniserum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node go.js"
+  },
+  "author": "zxol",
+  "license": "ISC",
+  "dependencies": {
+    "xml-reader": "^2.4.3"
+  }
+}
