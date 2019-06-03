@@ -1,20 +1,23 @@
-# omniserum
+# Omniserum.
 ## Create [Xfer Serum](https://xferrecords.com/products/serum) wavetables from [Spectrasonics Omnisphere's](https://www.spectrasonics.net/products/omnisphere/) wavetables.
 Taking sounds from one software instrument to use in another.
 
 ### You will need:
 1. A copy of omnisphere.
 2. Node js [installed](https://nodejs.org/en/download/). (LTS or above)
-3. A clone of this repository.
+3. Git installed.
+3. A clone (copy) of this repository. `git clone https://github.com/zxol/omniserum.git`
 
 ### What to do:
-in the STEAM directory (where your spectrasonics data is), find the wavetables data file (it's just one big file).
+
+First we need a copy of the wavetable data from omnisphere.
+
+In the STEAM directory (where your spectrasonics data is), find the wavetables data file (it's just one big file).
 It's called ~BundleArchives.db and is found in this path relative to STEAM:
 ```
 spectrasonics\STEAM\Omnisphere\Wavetables\~BundleArchives.db
 ```
 Copy it into this repo directory.
-
 Then install and start the script with the commands (in the repo's root directory, where package.json is):
 
 ```
