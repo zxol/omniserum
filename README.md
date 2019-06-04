@@ -1,5 +1,5 @@
 # Omniserum.
-## Create [Xfer Serum](https://xferrecords.com/products/serum) wavetables from [Spectrasonics Omnisphere's](https://www.spectrasonics.net/products/omnisphere/) wavetables using Node.js.
+## Convert [Spectrasonics Omnisphere's](https://www.spectrasonics.net/products/omnisphere/) wavetables to [Xfer Serum](https://xferrecords.com/products/serum) wavetables using Node.js.
 Taking source sounds from one VSTi software instrument and using them in another.
 
 ### You will need:
