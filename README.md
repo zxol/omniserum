@@ -4,9 +4,12 @@ Taking source sounds from one VSTi software instrument and using them in another
 
 ### You will need:
 1. A copy of Omnisphere.
-2. Node.js [installed](https://nodejs.org/en/download/). (LTS or above)
+2. Node.js [installed](https://nodejs.org/en/download/). (64 bit version required. LTS or above)
 3. Git installed.
 3. A clone (copy) of this repository. `git clone https://github.com/zxol/omniserum.git`
+
+
+
 
 ### What to do:
 
